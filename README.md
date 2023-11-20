@@ -11,3 +11,5 @@ source of data - https://affidavit.eci.gov.in/
 
 
 >**work in progress**
+
+<img src="https://i.imgur.com/3j30RTo.png">
